@@ -1,1 +1,1 @@
-worker: python TExnoProger GPT.py
+worker: python texnoproger_gpt.py
